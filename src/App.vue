@@ -16,6 +16,8 @@ import Home from './components/Home.vue'
   }
 </script>
 
+
+
 <style lang="less">
 #app {
   height: 100%;
